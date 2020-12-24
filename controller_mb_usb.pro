@@ -1,6 +1,6 @@
-update=wtorek, 22 grudnia 2020 21:46:23
+update=czwartek, 24 grudnia 2020 23:42:15
 version=1
-last_client=eeschema
+last_client=kicad
 [general]
 version=1
 RootSch=
@@ -240,7 +240,7 @@ dPairViaGap=0.25
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=
+PlotDirectoryName=gerber/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=

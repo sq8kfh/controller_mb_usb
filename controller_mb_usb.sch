@@ -5,8 +5,8 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "H9 controller main board with USB"
-Date "2020-10-28"
+Title "H9 controller main board with a USB"
+Date "2020-12-21"
 Rev "0.2"
 Comp "SQ8KFH"
 Comment1 ""
